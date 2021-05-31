@@ -63,6 +63,12 @@ UCB CS294
 
 [NJU ICS PA Bilibili](https://www.bilibili.com/video/BV1qa4y1j7xk)
 
+上海交通大学 操作系统 (陈海波、夏虞斌)  
+  - [上海交通大学 SE315](https://ipads.se.sjtu.edu.cn/courses/os/)  
+  - [视频课程（好大学在线） ](https://www.cnmooc.org/portal/course/5610/14956.mooc)  
+  - [对应教材 《现代操作系统——原理与实现》](https://ipads.se.sjtu.edu.cn/mospi/)  
+  - [配套 Lab](https://gitee.com/ipads-lab/chcore-lab)  
+    
 [CMU CSAPP 对应的课程 15213](https://www.cs.cmu.edu/~213/schedule.html)
 
 [CMU 15410/605](https://www.cs.cmu.edu/~410/)
@@ -171,6 +177,7 @@ CMU 15-213
 
 MIT 6.828
   - [主页](https://pdos.csail.mit.edu/6.828/)
-  - [中文版教材](https://www.gitbook.com/book/th0ar/xv6-chinese)
+  - [xv6中文文档](https://th0ar.gitbooks.io/xv6-chinese/content/content/cover.html)
 
 [UCB CS61c](http://www-inst.eecs.berkeley.edu/~cs61c/)
+
